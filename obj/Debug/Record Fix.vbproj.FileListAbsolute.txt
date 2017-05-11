@@ -1,0 +1,33 @@
+C:\Users\chris.beard\Desktop\RECORD.DAT\Record Fix\Record Fix\bin\Debug\Record Fix.exe.config
+C:\Users\chris.beard\Desktop\RECORD.DAT\Record Fix\Record Fix\bin\Debug\Record Fix.exe
+C:\Users\chris.beard\Desktop\RECORD.DAT\Record Fix\Record Fix\bin\Debug\Record Fix.pdb
+C:\Users\chris.beard\Desktop\RECORD.DAT\Record Fix\Record Fix\bin\Debug\Record Fix.xml
+C:\Users\chris.beard\Desktop\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record Fix.vbprojResolveAssemblyReference.cache
+C:\Users\chris.beard\Desktop\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record_Fix.Fix.resources
+C:\Users\chris.beard\Desktop\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record_Fix.Resources.resources
+C:\Users\chris.beard\Desktop\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record Fix.vbproj.GenerateResource.Cache
+C:\Users\chris.beard\Desktop\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record Fix.exe
+C:\Users\chris.beard\Desktop\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record Fix.xml
+C:\Users\chris.beard\Desktop\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record Fix.pdb
+C:\Users\chris.beard\Documents\RECORD.DAT\Record Fix\Record Fix\bin\Debug\Record Fix.exe.config
+C:\Users\chris.beard\Documents\RECORD.DAT\Record Fix\Record Fix\bin\Debug\Record Fix.exe
+C:\Users\chris.beard\Documents\RECORD.DAT\Record Fix\Record Fix\bin\Debug\Record Fix.pdb
+C:\Users\chris.beard\Documents\RECORD.DAT\Record Fix\Record Fix\bin\Debug\Record Fix.xml
+C:\Users\chris.beard\Documents\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record Fix.vbprojResolveAssemblyReference.cache
+C:\Users\chris.beard\Documents\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record_Fix.Fix.resources
+C:\Users\chris.beard\Documents\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record_Fix.Resources.resources
+C:\Users\chris.beard\Documents\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record Fix.vbproj.GenerateResource.Cache
+C:\Users\chris.beard\Documents\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record Fix.exe
+C:\Users\chris.beard\Documents\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record Fix.xml
+C:\Users\chris.beard\Documents\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record Fix.pdb
+C:\Users\chris.beard\Documents\Code\RECORD.DAT\Record Fix\Record Fix\bin\Debug\Record Fix.exe.config
+C:\Users\chris.beard\Documents\Code\RECORD.DAT\Record Fix\Record Fix\bin\Debug\Record Fix.exe
+C:\Users\chris.beard\Documents\Code\RECORD.DAT\Record Fix\Record Fix\bin\Debug\Record Fix.pdb
+C:\Users\chris.beard\Documents\Code\RECORD.DAT\Record Fix\Record Fix\bin\Debug\Record Fix.xml
+C:\Users\chris.beard\Documents\Code\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record Fix.vbprojResolveAssemblyReference.cache
+C:\Users\chris.beard\Documents\Code\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record_Fix.Fix.resources
+C:\Users\chris.beard\Documents\Code\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record_Fix.Resources.resources
+C:\Users\chris.beard\Documents\Code\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record Fix.vbproj.GenerateResource.Cache
+C:\Users\chris.beard\Documents\Code\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record Fix.exe
+C:\Users\chris.beard\Documents\Code\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record Fix.xml
+C:\Users\chris.beard\Documents\Code\RECORD.DAT\Record Fix\Record Fix\obj\Debug\Record Fix.pdb
